@@ -1,4 +1,4 @@
-# Алгоритмы и структуры данных — прогресс
+# Алгоритмы и структуры данных
 
 <div align="center">
 <table width="100%">
@@ -11,18 +11,18 @@
     <tr><td>Класс TBitField</td><td align="center">+</td></tr>
     <tr><td>Класс TSet</td><td align="center"></td></tr>
     <tr><td>Лабораторная работа №1</td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
     <tr><td>Лабораторная работа №2</td><td align="center"></td></tr>
     <tr><td>Контрольная работа №2</td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
     <tr><td>Отчет по №2</td><td align="center"></td></tr>
     <tr><td>Лабораторная работа №3</td><td align="center"></td></tr>
-    <tr><td></td><td align="center"></td></tr>
+    <tr><td>⠀</td><td align="center"></td></tr>
     <tr><td>Отчет по №3</td><td align="center"></td></tr>
     <tr><td>Лабораторная работа №4</td><td align="center"></td></tr>
     <tr><td>Зачет</td><td align="center"></td></tr>
