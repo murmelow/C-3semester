@@ -1,5 +1,3 @@
-# Алгоритмы и структуры данных
-
 <div align="center">
 <table width="100%">
   <thead>
@@ -27,5 +25,5 @@
     <tr><td>Лабораторная работа №4</td><td align="center"></td></tr>
     <tr><td>Зачет</td><td align="center"></td></tr>
   </tbody>
-</table>
+<table width="100%">
 </div>
