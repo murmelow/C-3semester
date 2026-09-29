@@ -1,1 +1,31 @@
-<div align="center"> <table width="100%"> <thead> <tr><th>Пункт</th><th>Статус</th></tr> </thead> <tbody> <tr><td>1к</td><td align="center">✅</td></tr> <tr><td>кр1</td><td align="center"></td></tr> <tr><td>Bit</td><td align="center"></td></tr> <tr><td>Set</td><td align="center"></td></tr> <tr><td>лаб1</td><td align="center"></td></tr> <tr><td>вар3</td><td align="center"></td></tr> <tr><td>век-р</td><td align="center"></td></tr> <tr><td>матр</td><td align="center"></td></tr> <tr><td>лаб2</td><td align="center"></td></tr> <tr><td>кр2</td><td align="center"></td></tr> <tr><td>стек</td><td align="center"></td></tr> <tr><td>табл</td><td align="center"></td></tr> <tr><td>полиз</td><td align="center"></td></tr> <tr><td>ар.в-е</td><td align="center"></td></tr> <tr><td>отчет</td><td align="center"></td></tr> <tr><td>лаб3</td><td align="center"></td></tr> <tr><td>оч-дь</td><td align="center"></td></tr> <tr><td>отчет</td><td align="center"></td></tr> <tr><td>лаб4</td><td align="center"></td></tr> <tr><td>зачет</td><td align="center"></td></tr> </tbody> </table> </div>
+# Алгоритмы и структуры данных — прогресс
+
+<div align="center">
+<table width="100%">
+  <thead>
+    <tr><th>Пункт</th><th>Статус</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Оценка за ЯПМ</td><td align="center">4,5</td></tr>
+    <tr><td>Контрольная работа №1</td><td align="center">+</td></tr>
+    <tr><td>Класс TBitField</td><td align="center">+</td></tr>
+    <tr><td>Класс TSet</td><td align="center">+</td></tr>
+    <tr><td>Лабораторная работа №1</td><td align="center"></td></tr>
+    <tr><td>вар3</td><td align="center"></td></tr>
+    <tr><td>век-р</td><td align="center"></td></tr>
+    <tr><td>матр</td><td align="center"></td></tr>
+    <tr><td>Лабораторная работа №2</td><td align="center"></td></tr>
+    <tr><td>Контрольная работа №2</td><td align="center"></td></tr>
+    <tr><td>стек</td><td align="center"></td></tr>
+    <tr><td>табл</td><td align="center"></td></tr>
+    <tr><td>полиз</td><td align="center"></td></tr>
+    <tr><td>ар.в-е</td><td align="center"></td></tr>
+    <tr><td>отчет</td><td align="center"></td></tr>
+    <tr><td>Лабораторная работа №3</td><td align="center"></td></tr>
+    <tr><td>оч-дь</td><td align="center"></td></tr>
+    <tr><td>отчет</td><td align="center"></td></tr>
+    <tr><td>Лабораторная работа №4</td><td align="center"></td></tr>
+    <tr><td>зачет</td><td align="center"></td></tr>
+  </tbody>
+</table>
+</div>
